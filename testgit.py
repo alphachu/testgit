@@ -4,8 +4,9 @@ Created on Wed Apr 16 15:21:06 2025
 
 @author: USER
 """
-a=input('請輸入數字:')
+a=eval(input('請輸入數字:'))
 print(a)
-print('test git')
+print('test git2')
+print(a*2)
 
 
