@@ -6,4 +6,5 @@ Created on Wed Apr 16 15:22:55 2025
 """
 
 print('5*2=',5*2)
+print('10*10=',10*10)
 print('hello~!')
